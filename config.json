@@ -72,6 +72,7 @@
             "dialectOptions": {
             "ssl": {"require":true,
                     "rejectUnauthorized": false }
+                }
         },
         // The app can only be registered by the products on these domains:
         "whitelist": [
